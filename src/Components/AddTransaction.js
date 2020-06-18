@@ -28,7 +28,7 @@ export const AddTransaction = () => {
                      placeholder="Enter text..." />
             </div>
 
-            <button class="btn"> Add Transaction </button>
+            <button className="btn"> Add Transaction </button>
           </form>
         </div>
     )
